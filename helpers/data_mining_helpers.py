@@ -1,15 +1,9 @@
 import nltk
 
 """
-Helper functions for data mining lab session 2017 Fall
-
-Notations:
-d - document
-D - documents
-V - vowels
-w - word
-W - words
-l - letter
+Helper functions for data mining lab session 2018 Fall Semester
+Author: Elvis Saravia
+Email: ellfae@gmail.com
 """
 
 def format_rows(docs):
